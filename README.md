@@ -8,7 +8,7 @@ Supports detection through images, videos, webcam, and IP camera streams with a 
 Detect drowsiness in uploaded images.
 ### Video Upload Detection
 Analyze pre-recorded videos frame-by-frame.
-#### Webcam Detection
+### Webcam Detection
 Real-time monitoring using system webcam.
 ### IP Camera Detection
 Supports remote video streams through IP cameras.
@@ -41,8 +41,15 @@ pillow
 
 ## Screenshots 
 
+### Model Training 
 
 
+<img width="1038" height="709" alt="Screenshot 2025-11-11 at 6 42 17 PM" src="https://github.com/user-attachments/assets/53c4cd09-e9a8-42a2-8528-0b9c705285ad" />
+
+### Streamlit Dashboard
+
+
+<img width="1393" height="774" alt="Screenshot 2025-11-12 at 12 18 12 AM" src="https://github.com/user-attachments/assets/9848363a-d8b3-4650-b171-c40f35e0c3f8" />
 
 
 
